@@ -11,22 +11,22 @@ Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN�
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  王泽子666
+2.  芸奔666
+3.  Paz666
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  IQ
+2.  IQ
+3.  IQ
 
 #### 参与贡献
 
 1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
+2.  新建 Feat_IQ 分支
 3.  提交代码
-4.  新建 Pull Request
+4.  新建 IQ
 
 
 #### 特技
